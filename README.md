@@ -1,3 +1,5 @@
+This is a simple website with payment gateway integration,it was a part of internship project at The Sparks Foundation.
+--------
 # Payment-Gateway-Integration
 Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
 
